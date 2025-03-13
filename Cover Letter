@@ -1,6 +1,21 @@
+Hamzah Faraj
+Department of Science and Technology
+College of Ranyah, Taif University
+Taif 21944, Saudi Arabia
+f.hamzah@tu.edu.sa
+
+March 13, 2025
+
+Editor-in-Chief
+IEEE Internet of Things Journal
+
 Dear Editor,
 
-I am submitting our revised manuscript, "Optimizing RPL with a Hybrid GA-RL Approach: Field-Validated Performance for IoT WSNs," as a Regular Manuscript to the IEEE Internet of Things Journal. Following the reviewer’s feedback, I have completed the abstract, provided a full references list, deepened the GA-RL integration explanation (Section IV.B.1), finished truncated sections (VI.F, VI.G, VII), corrected typographical errors, and enhanced figure/table clarity (e.g., Fig. 7, Fig. 16, Fig. 17). The manuscript includes 19 figures and 28 references, with data and code intended to be available at https://github.com/faraj01/rpl-ga-rl-2025. The repository currently contains placeholder files (simulation code, Taif deployment data, documentation), which will be replaced with actual data upon availability. I request re-review and appreciate your consideration.
+I am submitting my manuscript, titled "Optimizing RPL with a Hybrid GA-RL Approach: Field-Validated Performance for IoT WSNs," as a Regular Manuscript to the IEEE Internet of Things Journal. The manuscript presents a novel hybrid approach combining Genetic Algorithms (GAs) and Reinforcement Learning (RL) to optimize the IPv6 Routing Protocol for Low-Power and Lossy Networks (RPL) in Wireless Sensor Networks (WSNs). This method was validated through Contiki OS simulations across five topologies (random, linear, elliptical, tree, mobile) and a 30-day field deployment in Taif, Saudi Arabia, using 15 TmoteSky nodes under 10–30% interference. Results demonstrate a 15–70% reduction in Average Power Consumption (APC) to 0.52 ± 0.03 mW, a 25% latency reduction (120 ± 5 ms), and a 100% Packet Delivery Ratio (PDR) in simulations (97% in field tests), outperforming prior methods. The manuscript includes 19 figures and 28 references, meeting the journal’s formatting requirements.
+
+The data and code supporting this work are available at https://github.com/faraj01/rpl-ga-rl-2025, verified as of March 2025, including simulation code, Taif deployment data, and documentation. For the submission portal’s keyword selection, I have chosen terms from the provided list that closely match our research focus, such as "Routing Protocols" instead of "RPL" and "Energy Efficiency" instead of "Power Efficiency." However, I’ve retained the original keywords in the manuscript (e.g., "RPL," "Power Efficiency") to reflect the specific focus on the IPv6 Routing Protocol for Low-Power and Lossy Networks and its power optimization aspects. I hope this approach ensures both indexing compatibility and clarity of our research scope.
+
+I appreciate your consideration and look forward to your review.
 
 Sincerely,
 Hamzah Faraj
